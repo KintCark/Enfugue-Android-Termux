@@ -32,6 +32,10 @@ pip install enfugue
 
 4>
 
+pip install diffusers==0.26.0
+
+5>
+
 
 To Launch
 
